@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+webinar_site/data/registrations.json
+.DS_Store
+reference/
